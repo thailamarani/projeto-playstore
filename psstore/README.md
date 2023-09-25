@@ -15,7 +15,7 @@ npm install -g @angular/cli
 
 2. Clone este repositório em sua máquina:
 
-git clone https://github.com/seu-usuario/playstation-store.git
+git clone https://github.com/thailamarani/projeto-playstore
 
 3. Acesse a pasta do projeto:
 
